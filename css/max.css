@@ -9,3 +9,6 @@
 .foot li a {
   text-align: right;
 }
+.external {
+  with: 100%;
+}
