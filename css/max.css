@@ -6,3 +6,6 @@
   background-color: #f1f1f1;
   color: black;
 }
+.foot li a {
+  text-align: right;
+}
