@@ -1,0 +1,7 @@
+.foot li {
+  list-style-type: none;
+}
+.foot li:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
