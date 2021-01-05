@@ -12,3 +12,6 @@
 .external {
   with: 100%;
 }
+.external img{
+  border-radius: 10px;
+}
