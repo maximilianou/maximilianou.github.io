@@ -10,8 +10,9 @@
   text-align: right;
 }
 .external {
-  with: 100%;
 }
 .external img{
+  max-width: 98%;
+  min-width: 300px;
   border-radius: 10px;
 }
