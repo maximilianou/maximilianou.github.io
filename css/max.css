@@ -16,3 +16,11 @@
   min-width: 300px;
   border-radius: 10px;
 }
+.who{
+  min-width: 300px;
+  max-width: 500px; 
+  border-radius: 10px;
+  border: 1px solid grey;
+  margin: 5px;
+  padding: 5px;
+}
