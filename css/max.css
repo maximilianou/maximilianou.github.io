@@ -1,9 +1,9 @@
 .foot li {
   list-style-type: none;
-  text-align: left;
-  border-radius: 10px;
-  padding: 4px;
-  margin: 4px;
+  text-align:      left;
+  border-radius:   10px;
+  padding:         4px;
+  margin:          4px;
 }
 .foot li:hover {
   background-color: #f1f1f1;
